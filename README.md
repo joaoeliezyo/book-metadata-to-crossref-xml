@@ -161,4 +161,3 @@ Abaixo é apresentada uma demonstração unificada do XML limpo gerado pelo cód
   </body>
 </doi_batch>
 ```
-# book-metadata-to-crossref-xml

@@ -1,0 +1,5 @@
+*.csv
+doi_gerado.xml
+auditoria_doi.html
+__pycache__/
+*.pyc
